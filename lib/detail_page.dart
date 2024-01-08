@@ -14,7 +14,7 @@ class _DetailPageState extends State<DetailPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text("Detail Page"),
+        child: Text("Second Page"),
       ),
     );
   }
